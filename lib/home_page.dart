@@ -67,6 +67,7 @@ class _HomePageState extends State<HomePage> {
                       style: const TextStyle(
                         fontSize: 22,
                       ),
+                     //added new features
                     ),
                   ],
                 ),
